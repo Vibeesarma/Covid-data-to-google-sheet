@@ -10,4 +10,8 @@ I used to get the data from this API https://api.covid19api.com/world/total
 
 
 #then use JsonNode to convert json file to String 
-then use google sheet api to append the data to your google sheet
+
+I used googlesheet API POST https://sheets.googleapis.com/v4/spreadsheets/{spreadsheetId}/values/{range}:append  to append the data to my googlesheet .
+
+after that what are data want to store in the googlesheet convert into string and post using above url.
+
