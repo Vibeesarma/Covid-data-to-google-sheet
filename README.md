@@ -1,4 +1,4 @@
-# Covid19-data-to-google-sheet
+# Covid-data-to-google-sheet
 This project public covid19 data to google from Covid19 API
 this project has two parts,
       1.get data from Covid19 public API
